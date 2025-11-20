@@ -21,7 +21,7 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: notes-app-service
+                name: notes-app
                 port:
                   number: 8000
 
